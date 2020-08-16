@@ -1,0 +1,24 @@
+{
+  "name": "@snailjs/utils",
+  "version": "0.0.1",
+  "description": "snailjs utils tools code",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "snailjs",
+    "utils",
+    "dev",
+    "tool",
+    "tools",
+    "kit",
+    "kits"
+  ],
+  "author": "zhangaz1",
+  "license": "ISC"
+}
