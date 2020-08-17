@@ -34,5 +34,6 @@
   "gitHead": "2f24b3b02366de413797eb8bfccb36d8776bb464",
   "dependencies": {
     "ramda": "^0.27.1"
-  }
+  },
+  "devDependencies": {}
 }
