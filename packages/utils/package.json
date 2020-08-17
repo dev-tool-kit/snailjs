@@ -1,6 +1,6 @@
 {
   "name": "@dev-tool-kit/utils",
-  "version": "0.0.9",
+  "version": "0.0.11",
   "description": "snailjs utils tools code",
   "main": "lib/index.js",
   "unpkg": "dist/index.js",
@@ -38,5 +38,8 @@
     "zhangaz1 <zhangaz1@hotmail.com> (https://github.com/zhangaz1)"
   ],
   "license": "MIT",
-  "gitHead": "385908e08a10e590be8fd602662f67e9255de6bd"
+  "gitHead": "2f24b3b02366de413797eb8bfccb36d8776bb464",
+  "dependencies": {
+    "@dev-tool-kit/libs": "^0.0.3"
+  }
 }
