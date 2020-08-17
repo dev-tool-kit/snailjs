@@ -1,6 +1,6 @@
 {
   "name": "@dev-tool-kit/utils",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "snailjs utils tools code",
   "main": "lib/index.js",
   "unpkg": "dist/index.js",
