@@ -1,18 +1,11 @@
 {
-  "name": "@dev-tool-kit/utils",
-  "version": "0.0.11",
-  "description": "snailjs utils tools code",
+  "name": "@dev-tool-kit/libs",
+  "version": "0.0.3",
+  "description": "libs import",
   "main": "lib/index.js",
   "unpkg": "dist/index.js",
   "module": "es/index.js",
   "types": "lib/index.d.ts",
-  "files": [
-    "dist",
-    "lib",
-    "es",
-    "src",
-    "types"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/dev-tool-kit/snailjs"
@@ -40,6 +33,6 @@
   "license": "MIT",
   "gitHead": "2f24b3b02366de413797eb8bfccb36d8776bb464",
   "dependencies": {
-    "@dev-tool-kit/libs": "^0.0.3"
+    "ramda": "^0.27.1"
   }
 }
