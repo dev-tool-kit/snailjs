@@ -1,5 +1,5 @@
 {
-  "name": "@snailjs/utils",
+  "name": "snailjs-utils",
   "version": "0.0.2",
   "description": "snailjs utils tools code",
   "main": "lib/index.js",
