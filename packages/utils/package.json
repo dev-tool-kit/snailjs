@@ -1,0 +1,42 @@
+{
+  "name": "@dev-tool-kit/utils",
+  "version": "0.0.8",
+  "description": "snailjs utils tools code",
+  "main": "lib/index.js",
+  "unpkg": "dist/index.js",
+  "module": "es/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "dist",
+    "lib",
+    "es",
+    "src",
+    "types"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev-tool-kit/snailjs"
+  },
+  "bugs": "https://github.com/dev-tool-kit/snailjs/issues",
+  "homepage": "https://github.com/dev-tool-kit/snailjs/tree/master/packages/utils#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "snailjs",
+    "utils",
+    "dev",
+    "tool",
+    "tools",
+    "kit",
+    "kits"
+  ],
+  "authors": [
+    "zhangaz1 <zhangaz1@hotmail.com> (https://github.com/zhangaz1)"
+  ],
+  "license": "MIT",
+  "gitHead": "385908e08a10e590be8fd602662f67e9255de6bd"
+}
