@@ -23,7 +23,7 @@
     "access": "public"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [
     "snailjs",
@@ -41,5 +41,6 @@
   "gitHead": "2f24b3b02366de413797eb8bfccb36d8776bb464",
   "dependencies": {
     "@dev-tool-kit/libs": "^0.0.3"
-  }
+  },
+  "devDependencies": {}
 }

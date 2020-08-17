@@ -6,12 +6,14 @@
     "packages/*"
   ],
   "scripts": {
-    "build": "father-next"
+    "build": "father-next",
+    "test": "umi-test --watch"
   },
   "dependencies": {},
   "devDependencies": {
     "father-next": "^3.0.0-alpha.1",
-    "lerna": "^3.22.1"
+    "lerna": "^3.22.1",
+    "@umijs/test": "3.2.16"
   },
   "peerDependencies": {}
 }
