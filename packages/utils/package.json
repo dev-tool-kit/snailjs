@@ -1,5 +1,5 @@
 {
-  "name": "@snailjs/utils",
+  "name": "@dev-tk/utils",
   "version": "0.0.6",
   "description": "snailjs utils tools code",
   "main": "lib/index.js",
@@ -37,5 +37,6 @@
   "authors": [
     "zhangaz1 <zhangaz1@hotmail.com> (https://github.com/zhangaz1)"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "385908e08a10e590be8fd602662f67e9255de6bd"
 }
