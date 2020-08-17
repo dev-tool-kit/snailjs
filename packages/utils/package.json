@@ -3,9 +3,15 @@
   "version": "0.0.1",
   "description": "snailjs utils tools code",
   "main": "lib/index.js",
+  "unpkg": "dist/index.js",
+  "module": "es/index.js",
   "types": "lib/index.d.ts",
   "files": [
-    "lib"
+    "dist",
+    "lib",
+    "es",
+    "src",
+    "types"
   ],
   "repository": {
     "type": "git",
@@ -21,6 +27,7 @@
   },
   "dependencies": {},
   "devDependencies": {},
+  "peerDependencies": {},
   "keywords": [
     "snailjs",
     "utils",
