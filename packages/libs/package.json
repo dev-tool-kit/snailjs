@@ -1,6 +1,6 @@
 {
   "name": "@dev-tool-kit/libs",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "libs import",
   "main": "lib/index.js",
   "unpkg": "dist/index.js",
@@ -15,9 +15,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "keywords": [
     "snailjs",
     "utils",
