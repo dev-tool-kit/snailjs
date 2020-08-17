@@ -40,6 +40,6 @@
   "license": "MIT",
   "gitHead": "2f24b3b02366de413797eb8bfccb36d8776bb464",
   "dependencies": {
-    "@dev-took-kit/libs": "^0.0.1"
+    "@dev-tool-kit/libs": "^0.0.2"
   }
 }
