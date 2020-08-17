@@ -1,6 +1,6 @@
 {
   "name": "@dev-tool-kit/libs",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "libs import",
   "main": "lib/index.js",
   "unpkg": "dist/index.js",
@@ -32,6 +32,5 @@
   "gitHead": "2f24b3b02366de413797eb8bfccb36d8776bb464",
   "dependencies": {
     "ramda": "^0.27.1"
-  },
-  "devDependencies": {}
+  }
 }

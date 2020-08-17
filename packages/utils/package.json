@@ -1,6 +1,6 @@
 {
   "name": "@dev-tool-kit/utils",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "snailjs utils tools code",
   "main": "lib/index.js",
   "unpkg": "dist/index.js",
@@ -38,7 +38,6 @@
   "license": "MIT",
   "gitHead": "2f24b3b02366de413797eb8bfccb36d8776bb464",
   "dependencies": {
-    "@dev-tool-kit/libs": "^0.0.4"
-  },
-  "devDependencies": {}
+    "@dev-tool-kit/libs": "^0.0.5"
+  }
 }
