@@ -1,0 +1,11 @@
+{
+  "name": "@dev-tool-kit/libs",
+  "version": "0.0.1",
+  "description": "libs import",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "zhangaz1",
+  "license": "MIT"
+}
