@@ -1,0 +1,16 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "father-next"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "father-next": "^3.0.0-alpha.1",
+    "lerna": "^3.22.1"
+  },
+  "peerDependencies": {}
+}
