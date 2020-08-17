@@ -2,10 +2,37 @@
   "name": "@dev-tool-kit/libs",
   "version": "0.0.1",
   "description": "libs import",
-  "main": "index.js",
-  "scripts": {
-    "test": "test"
+  "main": "lib/index.js",
+  "unpkg": "dist/index.js",
+  "module": "es/index.js",
+  "types": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev-tool-kit/snailjs"
   },
-  "author": "zhangaz1",
-  "license": "MIT"
+  "bugs": "https://github.com/dev-tool-kit/snailjs/issues",
+  "homepage": "https://github.com/dev-tool-kit/snailjs/tree/master/packages/utils#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "snailjs",
+    "utils",
+    "dev",
+    "tool",
+    "tools",
+    "kit",
+    "kits"
+  ],
+  "authors": [
+    "zhangaz1 <zhangaz1@hotmail.com> (https://github.com/zhangaz1)"
+  ],
+  "license": "MIT",
+  "gitHead": "2f24b3b02366de413797eb8bfccb36d8776bb464",
+  "dependencies": {
+    "ramda": "^0.27.1"
+  }
 }
