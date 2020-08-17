@@ -1,6 +1,6 @@
 {
   "name": "@dev-tool-kit/libs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "libs import",
   "main": "lib/index.js",
   "unpkg": "dist/index.js",
