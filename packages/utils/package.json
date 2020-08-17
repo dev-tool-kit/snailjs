@@ -1,6 +1,6 @@
 {
   "name": "@snailjs/utils",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "snailjs utils tools code",
   "main": "lib/index.js",
   "unpkg": "dist/index.js",
